@@ -22,7 +22,7 @@ This project allows you to use the **Gemini CLI** programmatically with tools, l
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/gemini-cli-openai-proxy.git](https://github.com/yourusername/gemini-cli-openai-proxy.git)
+    git clone https://github.com/apuryear/gemini-cli-openai-proxy.git
     cd gemini-cli-openai-proxy
     ```
 
